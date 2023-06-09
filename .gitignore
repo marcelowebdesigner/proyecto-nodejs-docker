@@ -1,0 +1,21 @@
+# Dependencias instaladas
+/node_modules
+
+# Archivos generados durante el desarrollo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+.env
+
+# Archivos de compilación y construcción
+/build
+/dist
+
+# Dependencias específicas de tu entorno de desarrollo
+/.pnp
+.pnp.js
+
+# Archivos de respaldo y temporales
+*.swp
+*~
